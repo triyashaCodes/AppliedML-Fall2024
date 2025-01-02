@@ -1,5 +1,6 @@
 ## COMSW4995 Applied ML
 ### Fall 2024 by Prof. Vijay Pappu
+### Submitted by: Triyasha Ghosh Dastidar
 
 1. Assignment 1 -
   - Data Visualization and Analysis
